@@ -1,0 +1,27 @@
+body {
+    background-color:lightgreen;
+}
+
+header {
+    text-align:center;
+    background-color:darkmagenta;
+    padding: 5px;
+    color:aliceblue;
+    border-radius:5px;
+    margin:-10px;
+}
+
+footer {
+    text-align:center;
+    background-color:darkmagenta;
+    padding: 5px;
+    color:aliceblue;
+    border-radius:5px;
+    position:absolute;
+    bottom:0px;
+    width: 100%;
+}
+
+.margin-left {
+    margin-left: 30px;
+}
